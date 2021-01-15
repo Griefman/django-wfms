@@ -1,2 +1,2 @@
 # django-wfms
-Django course by Web for myself
+Django-course by Web for myself
